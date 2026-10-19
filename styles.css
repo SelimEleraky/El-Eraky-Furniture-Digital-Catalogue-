@@ -29,3 +29,8 @@
 nav a {
   white-space: nowrap;
 }
+
+.button span, .text-link, .favourite, .saved-toggle, .view-label, .rooms b {
+  font-family: Arial, "Segoe UI Symbol", sans-serif;
+  font-variant-emoji: text;
+}
